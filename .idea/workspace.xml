@@ -48,12 +48,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2cd908f7-2a83-40bd-a863-597625d2c5ce" name="Changes" comment="" />
+      <changelist id="b41bdd2c-4af4-4b44-80cc-15f47ad10dbd" name="Changes" comment="07.02.2022" />
       <created>1643799421116</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643799421116</updated>
     </task>
+    <task id="LOCAL-00001" summary="07.02.2022">
+      <created>1644230278975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644230278975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,16 +78,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="07.02.2022" />
     <option name="LAST_COMMIT_MESSAGE" value="07.02.2022" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
