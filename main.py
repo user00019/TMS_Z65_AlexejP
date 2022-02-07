@@ -1,4 +1,7 @@
-names = ["bob", "mike", "bill"]
-list_a = [name for name in names if name == name[::-1]]
-print(list_a)
-
+def main():
+    words = ["bob", "mike", "bill"]
+    list_a = [word for word in words if word == word[::-1]]
+    print(list_a)
+    pass
+if __name__ == "__main__":
+    main()
