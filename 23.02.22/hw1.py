@@ -1,4 +1,5 @@
 class Pet:
+
     def nickname(self, name):
         self.name = name
         return print(self.name)
